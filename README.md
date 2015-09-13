@@ -1,6 +1,8 @@
 k-vim
 =======================
 
+[![Join the chat at https://gitter.im/gtchaos/gmm-vim](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gtchaos/gmm-vim?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 > VERSION: 9.0
 
 > LAST_UPDATE_TIME: 2015-05-02
